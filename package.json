@@ -1,5 +1,5 @@
 {
-  "name": "hapi-prototype",
+  "name": "AWS-project",
   "description": "Hapi Prototype Application",
   "homepage": "https://github.com/coding-house-jan2015/hapi-prototype",
   "engines": {
@@ -15,7 +15,7 @@
     "mongo",
     "mongoose"
   ],
-  "author": "Chyld Medford <chyld.medford@gmail.com>",
+  "author": "Todd Kronenberg",
   "repository": {
     "type": "git",
     "url": "git://github.com/coding-house-jan2015/hapi-prototype.git"
